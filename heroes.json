@@ -7,40 +7,45 @@
       "element": "fire"
     },
     {
-      "id": "ae2ba845-501e-47e2-a20d-03d30fb1901c",
-      "name": "Воздушный Эдгар",
-      "description": "Звуковые волны пукчихрыгами",
-      "element": "wind"
-    },
-    {
       "id": "a60cd35c-46b0-4a5f-b03d-677898db3ff1",
       "name": "sad",
       "description": "asdd",
       "element": ""
+    },
+    {
+      "id": "dac44910-c6f9-41b3-ba0a-9ff23f241079",
+      "name": "ascfwevcw",
+      "description": "dqwdq",
+      "element": "earth"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
